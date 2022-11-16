@@ -1,2 +1,3 @@
-# Lux-Chair-Project
+### Lux-Chair-Project
+
 new project
